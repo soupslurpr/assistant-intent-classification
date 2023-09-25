@@ -1,0 +1,684 @@
+<|im_start|>user
+Wake me up tomorrow for hiking at 9 am
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Wake me in 4 hours please
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Wake me at 7 am for some early morning exercise
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Please wake me up at 8 pm today
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Wake me at 9:30 am tomorrow
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set an alarm to walk the kitten
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set an alarm to activate at 7 pm
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Please set an alarm to wake me up at 9 am every day
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set an alarm for 2 hours from now
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set an alarm for 8 am please
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set an alarm to take the kids to the festival at 9:30 am
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set an alarm to touch grass every morning
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set an alarm to take snake to vet
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Can you please set an alarm for 4 pm
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Can you alarm me in 2 hours
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Can you please alarm me at 8:30 am tomorrow so that I can water the dog
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Can you set an alarm for 5 hours from now
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Can you set an alarm to activate at 10 am on weekdays only
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set a daily alarm for 9 am
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Please set a weekend only alarm for 8 am
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set a weekday only alarm at 7 am
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Set an alarm for Wednesdays and Tuesdays only for 5 pm
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Create an alarm for 7:30 am on weekends
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Create an alarm at 8 am daily for training
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Please create alarm at 9:30 pm for work
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Create a recurring alarm for Mondays and Tuesdays at 7:05 am
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Create an alarm to 2 pm today
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Start my day with an alarm at 6 am please
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Begin my day with a 8:05 am alarm
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Start my weekdays with an alarm at 9:30 am
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Please begin all my days with an alarm set to 8:45 am
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Begin tomorrow with an alarm at 7:50 am
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Start tomorrow with an alarm set to 9:45
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Please start an alarm for 8:15 am every day
+<|im_end|>
+<|im_start|>assistant
+alarm
+<|im_end|>
+<|im_start|>user
+Remind me to walk my dog in 15 minutes
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Remind me to take out the trash at 10:30 am every Sunday
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Please remind me to visit Jamie every Tuesday at 8 am
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Remind me in an hour
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Remind me for morning exercise at 9:45 am daily
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Remind me for 1 am snacks
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Remind me to water the plants every Tuesday and Friday at 7 pm
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Please remind me at 4 pm for my dentist appointment
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Remind me at 11:00 am to go to the meeting
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Remind me in three hours to 
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Can you remind me to feed the cat at 3 pm
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Can you remind me of my friend's birthday every year today
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Can you please remind me to drink some water in 50 minutes
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Can you remind me to get orange juice, peaches, and soup at the grocery store in 10 minutes
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Can you remind me to charge my phone every night at 11 pm
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Set a reminder to wash the dishes at 8 pm every day
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Please set a reminder to watch funny cat videos in the morning at 9 am
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Set a reminder to do my homework when I get home from school at 4 pm
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Set a reminder to play with my kitty at 10 am
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Set a reminder to buy some dog food next Friday
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Could you remind me to make some potato salad in two hours please
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Please remind me to feed my hamster in 3 hours
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Could you please tell me to buy pumpkins from the store tomorrow
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Tell me to take a shower in 6 hours
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Tell me to turn off the oven in 35 minutes
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+In 3 days remind me to buy a drawer from the hardware store
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+In an hour tell me to turn off the AC
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+In half an hour remind me to ask her out
+<|im_end|>
+<|im_start|>assistant
+reminder
+<|im_end|>
+<|im_start|>user
+Search for zucchini recipies
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for chicken sandwhich recipies
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for funny cat videos uploaded recently
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Please search for what are the best chairs of the year
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for do dogs and cats hate each other
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for restaurants near me
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search are puppies easy to take care of
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search should I get a cat
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for new coffee makers this year
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for pepperoni pizza
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for awesome things to do today
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search best new phones of 2023
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for places to go around the world
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for tips on preparing soup
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for how much water is needed for a mango smoothie
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Please search new microwaves
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for red peppers
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search stores with parrot feed
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search why are pumpkins orange
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for velvet
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for orangutan
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search for dog
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Search kitty videos
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find fast food near me
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find breakfast
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find tips to stay focused
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find photo printing services
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Could you find me fun ways to clean the house
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find me sushi restaurants near me
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Please find me burger places near my location
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find me 5 star italian restaurants
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find me text editor apps
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find me some good chicken pot pie recipies
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find the best skincare products
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Find the lyrics to trending songs
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Look up why is the sky blue
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Look up good fast food tacos in my area
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Look up fun facts about horses
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Look up how many colors can spiders be
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Please look up interesting places to go near my location
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Look up where to go for a vacation
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Look up what's 8 divided by 4
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Look up some supreme pizza recipies
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Show me workout routines
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Please show me how to repair my car
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Show me how to make homemade ice cream
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Show me how to cook chicken perfectly
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Show me tips on improving plant health
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Show me the most important things to keep in mind for watering lemon trees
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Show me hilarious spiders
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Show me new kicks
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
+<|im_start|>user
+Show me popular music
+<|im_end|>
+<|im_start|>assistant
+search
+<|im_end|>
