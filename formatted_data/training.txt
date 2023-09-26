@@ -682,3 +682,129 @@ Show me popular music
 <|im_start|>assistant
 search
 <|im_end|>
+<|im_start|>user
+Set a timer for 6 minutes
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Set a timer for 2 hours and 48 minutes
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Set a timer lasting half an hour
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Set a timer that will activate in a day
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Please set a timer for 30 seconds
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Set a timer for thirty three seconds
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Can you set a timer for 9 hours
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Could you set a timer of twenty minutes
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Start a 83 minute timer
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Start a 4 hour and 55 second timer
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Start a timer for 40 minutes please
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Start a timer in 30 minutes
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Start a timer for 5 hours, 30 minutes, and fifty-five seconds
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Start a timer for 30 minutes so I remember to feed my kitten
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Please start a timer for two minutes
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Start a timer for 11 hours
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Can you begin a timer for 50 minutes
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Begin a timer for 3 days
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Could you begin a timer that lasts 20 minutes
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Begin a timer for 4 hours and 57 minutes
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
+<|im_start|>user
+Please turn on a timer for 35 minutes so my pie doesn't burn
+<|im_end|>
+<|im_start|>assistant
+timer
+<|im_end|>
