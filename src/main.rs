@@ -3,7 +3,7 @@ use std::io::{self, BufRead};
 use std::path::Path;
 
 fn main() -> io::Result<()> {
-    let categories = ["alarm", "reminder", "search", "timer"];
+    let categories = ["alarm", "reminder", "search", "timer", "navigation"];
     let mut formatted_training_data = String::new();
 
     // TODO: Test if randomizing the order of each data point improves model accuracy

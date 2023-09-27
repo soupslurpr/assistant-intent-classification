@@ -808,3 +808,123 @@ Please turn on a timer for 35 minutes so my pie doesn't burn
 <|im_start|>assistant
 timer
 <|im_end|>
+<|im_start|>user
+Navigate to a burger place near me
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Navigate to chicken sandwhiches please
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Navigate to sushi restourant
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Please navigate to pancake shop
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Navigate to the smoothie supplier
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Go to pizzeria in my location
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Go to work
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Can you go to the pumpkin farm
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Go to the closest florist near me
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Could you go to a nearby bar
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Please go to my house
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Give me the directions to Billy's hut
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Give me directions to the bank
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+What are the directions to a teddy bear factory
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Provide the directions to the closest place I can get pumpkins at
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Can you please give me the directions to the best pillow seller
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Provide directions to the beach
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Help me get to the grocery store
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Help me navigate to the barber
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
+<|im_start|>user
+Give me directions on getting to the art museum
+<|im_end|>
+<|im_start|>assistant
+navigation
+<|im_end|>
