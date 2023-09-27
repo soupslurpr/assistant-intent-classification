@@ -6,7 +6,6 @@ fn main() -> io::Result<()> {
     let categories = ["alarm", "reminder", "search", "timer", "navigation"];
     let mut formatted_training_data = String::new();
 
-    // TODO: Test if randomizing the order of each data point improves model accuracy
     for category in categories {
         let path = "raw_data/".to_owned() + category + ".txt";
         let path = Path::new(&path);
